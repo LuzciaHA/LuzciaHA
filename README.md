@@ -4,13 +4,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/236x/c5/d6/89/c5d6896da4afacb54b6d6ddbf34018b4.jpg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.pinimg.com/236x/c5/d6/89/c5d6896da4afacb54b6d6ddbf34018b4.jpg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/236x/d0/58/b9/d058b9d09c16dc9b24d7d3957404384a.jpg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.pinimg.com/236x/d0/58/b9/d058b9d09c16dc9b24d7d3957404384a.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/b7/76/b6/b776b64cd463a6914ef141e19bc26dcb.jpg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.pinimg.com/736x/b7/76/b6/b776b64cd463a6914ef141e19bc26dcb.jpg">
 </picture>
 
 ### Hi there 👋
