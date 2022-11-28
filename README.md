@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: I'm a big fan of television cooking competitions. I love especially where they prepare desserts or sweet foods. The funny thing is that in real life I almost never cook those recipes.
 
-![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&theme=gruvbox)
+![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&theme=tokyonight)
