@@ -17,11 +17,7 @@
 - ⚡ Fun fact: I'm a big fan of television cooking competitions 📺 I love especially where they prepare desserts or sweet foods 🍫 The funny thing is that in real life I almost never cook those recipes.
 
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=jolly&hide_border=false&icon_color=4c71f2&border_radius=6.5&include_all_commits)
-
-<a href="https://github.com/LuzciaHA/LuzciaHA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuzciaHA&repo=LuzciaHA" />
 [![Luzcia's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuzciaHA&repo=LuzciaHA&theme=jolly&hide_border=false&icon_color=4c71f2&border_radius=6.5)](https://github.com/LuzciaHA/LuzciaHA)
-</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzciaHA&theme=jolly&hide_border=false&icon_color=4c71f2&border_radius=6.5)](https://github.com/LuzciaHA/LuzciaHA)
 
