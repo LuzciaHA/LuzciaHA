@@ -3,6 +3,16 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://super-static-assets.s3.amazonaws.com/1cdeea7c-0a08-41dd-afb2-a331319ec817/images/d54b7f2b-2194-49d9-8059-1730c02868ac.jpg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/236x/c5/d6/89/c5d6896da4afacb54b6d6ddbf34018b4.jpg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.pinimg.com/236x/c5/d6/89/c5d6896da4afacb54b6d6ddbf34018b4.jpg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/236x/d0/58/b9/d058b9d09c16dc9b24d7d3957404384a.jpg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.pinimg.com/236x/d0/58/b9/d058b9d09c16dc9b24d7d3957404384a.jpg">
+</picture>
+
 ### Hi there 👋
 
 ### About me 💃
