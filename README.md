@@ -15,3 +15,10 @@
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=jolly)
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=outrun)
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&theme=jolly"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true" />
+</picture>
