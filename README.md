@@ -13,5 +13,5 @@
 
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=jolly)
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=outrun)
-![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&bg_color=800080)
+![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&bg_color=8080f)
 
