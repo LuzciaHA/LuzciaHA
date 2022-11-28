@@ -13,5 +13,5 @@
 
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=jolly)
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=outrun)
-[![Luzcia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Luzcia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=dark#gh-dark-mode-only)](https://github.com/LuzciaHA/github-readme-stats#gh-dark-mode-only)
 
