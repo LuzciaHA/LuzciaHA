@@ -19,12 +19,13 @@
 ![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&hide=stars,issues&theme=jolly&hide_border=false&icon_color=4c71f2&border_radius=6.5&include_all_commits)
 
 [![Luzcia's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuzciaHA&repo=LuzciaHA&theme=jolly&hide_border=false&icon_color=4c71f2&border_radius=6.5)](https://github.com/LuzciaHA/LuzciaHA)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzciaHA&theme=jolly&hide_border=false&icon_color=4c71f2&border_radius=6.5)](https://github.com/LuzciaHA/LuzciaHA)
-
 <a href="https://github.com/LuzciaHA/LuzciaHA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuzciaHA&repo=LuzciaHA" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzciaHA&theme=jolly&hide_border=false&icon_color=4c71f2&border_radius=6.5)](https://github.com/LuzciaHA/LuzciaHA)
+
+
 
 
 
