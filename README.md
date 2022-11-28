@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About me 👧
+### About me 💃
 
 - 🔭 I’m currently interested on working in the areas of consulting, banking, market research and financial projects.
 - 🌱 I’m currently learning different programming languages that are necessary to develop my university career. 
@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: I'm a big fan of television cooking competitions 📺 I love especially where they prepare desserts or sweet foods 🍫 The funny thing is that in real life I almost never cook those recipes.
 
-![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&theme=onedark)
+![Luzcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true&theme=radical)
