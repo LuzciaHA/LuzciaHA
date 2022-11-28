@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://super-static-assets.s3.amazonaws.com/1cdeea7c-0a08-41dd-afb2-a331319ec817/images/d54b7f2b-2194-49d9-8059-1730c02868ac.jpg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://super-static-assets.s3.amazonaws.com/1cdeea7c-0a08-41dd-afb2-a331319ec817/images/d54b7f2b-2194-49d9-8059-1730c02868ac.jpg">
 </picture>
 
 ### Hi there 👋
@@ -31,5 +31,9 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=LuzciaHA&show_icons=true" />
 </picture>
+
+
+
+
 
 
