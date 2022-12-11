@@ -9,10 +9,9 @@
 
 - 🔭 I’m currently interested on working in the areas of consulting, banking, market research and financial projects.
 - 🌱 I’m currently learning different programming languages that are necessary to develop my university career. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate in a research on microeconomics
 - 💬 Ask me about economics, microeconomics, microfinance, education and Peruvian development, art and cinematography, entrepreneurship and crafts.
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/luzciahalanoca/ or Luzcia Halanoca in Instagram :)
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: I'm a big fan of television cooking competitions 📺 I love especially where they prepare desserts or sweet foods 🍫 The funny thing is that in real life I almost never cook those recipes.
 
